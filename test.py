@@ -1,6 +1,5 @@
-x = 5
-print (x)
-print (x + 5)
-
-
-
+""" Example module docstring """
+def funcname():
+    """ Example function docstring """
+    test_var = 5
+    print test_var
